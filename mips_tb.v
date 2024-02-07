@@ -1,4 +1,7 @@
- `timescale 1ns / 1ps
+//Author : Jaideep
+
+
+`timescale 1ns / 1ps
  module tb_mips16;  
       // Inputs  
       reg clk;  
