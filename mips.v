@@ -1,4 +1,6 @@
- module data_memory  
+//Author : Jaideep
+
+module data_memory  
  (  
       input                         clk,  
       // address input, shared by read and write port  
